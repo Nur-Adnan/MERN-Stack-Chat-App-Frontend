@@ -71,8 +71,7 @@ A real-time chat application designed and developed using a modern tech stack, o
 
 4. Create an `.env` file in the server folder with the following variables:
     ```bash
-    MONGO_URI=your-mongodb-connection-string
-    JWT_SECRET=your-secret-key
+    VITE_SERVER=your-server-url
     ```
 
 5. Run the development server:

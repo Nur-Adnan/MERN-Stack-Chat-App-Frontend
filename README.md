@@ -50,7 +50,7 @@ A real-time chat application designed and developed using a modern tech stack, o
 
 ## Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS
+- **Frontend**: React.js, Material UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Real-Time Communication**: Socket.IO

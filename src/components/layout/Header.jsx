@@ -92,11 +92,14 @@ const Header = () => {
                 alignItems: "center",
               }}
             >
-              <img
-                src="../../../public/chatApp.png"
-                alt="Logo"
-                style={{ height: "3rem", width: "auto" }}
-              />
+              <Typography
+                variant="h5" // Adjust variant as needed (e.g., h4, h6)
+                fontWeight="bold" // Bold for emphasis
+                color="primary" // Use primary color or customize
+                sx={{ flexGrow: 1 }} // Ensures it takes appropriate space
+              >
+                ChatApp
+              </Typography>
 
               {/* Menu Icon for Mobile */}
               <IconButton

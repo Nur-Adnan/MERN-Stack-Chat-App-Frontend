@@ -1,6 +1,18 @@
-# Real Time Chat Application
+# Real-Time Chat Application
 
 A real-time chat application designed and developed using a modern tech stack, offering users a smooth, engaging communication experience. This project showcases key functionalities such as user authentication, friend management, group chats, media sharing, and a powerful admin panel, making it a well-rounded solution for social interaction and real-time communication.
+
+## Table of Contents
+
+- [Features](#features)
+  - [User Features](#user-features)
+  - [Admin Panel Features](#admin-panel-features)
+- [Tech Stack](#tech-stack)
+- [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Screenshots](#screenshots)
+- [License](#license)
 
 ## Features
 
@@ -16,7 +28,7 @@ A real-time chat application designed and developed using a modern tech stack, o
 - **Friend Management**:
   - Search for users and send/receive friend requests.
   - Notifications for incoming friend requests and messages.
-  
+
 - **Group Chats**:
   - Create and customize groups with a minimum of 3 members.
   - Join and leave groups as desired.
@@ -51,6 +63,7 @@ A real-time chat application designed and developed using a modern tech stack, o
 - MongoDB running locally or on a remote server
 
 ### Installation
+
 1. Install client-side dependencies:
     ```bash
     git clone https://github.com/Nur-Adnan/MERN-Stack-Chat-App-Frontend.git
@@ -67,7 +80,7 @@ A real-time chat application designed and developed using a modern tech stack, o
     ```bash
     VITE_SERVER=your-server-url
     ```
-    
+
 4. Create an `.env` file in the server folder with the following variables:
     ```bash
     MONGO_URI=your-mongodb-connection-string
@@ -79,7 +92,7 @@ A real-time chat application designed and developed using a modern tech stack, o
     CLOUDINARY_API_KEY=your-cloudinary-api-key
     CLOUDINARY_API_SECRET=your-cloudinary-api-secret
     ```
-    
+
 5. Run the development server:
     - In the `server` folder, start the backend:
       ```bash
@@ -108,6 +121,6 @@ Admin
 ![image](https://github.com/user-attachments/assets/0aaab633-b24d-4d04-884e-9dc6b6773e8f)
 ![image](https://github.com/user-attachments/assets/87e677c2-77e5-4f25-84b5-e8c2f056ced2)
 
-
 ## License
+
 This project is licensed under the MIT License.

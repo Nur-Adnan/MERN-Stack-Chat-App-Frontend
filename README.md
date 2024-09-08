@@ -1,4 +1,4 @@
-# Chat Application
+# Real Time Chat Application
 
 A real-time chat application designed and developed using a modern tech stack, offering users a smooth, engaging communication experience. This project showcases key functionalities such as user authentication, friend management, group chats, media sharing, and a powerful admin panel, making it a well-rounded solution for social interaction and real-time communication.
 
@@ -90,10 +90,19 @@ A real-time chat application designed and developed using a modern tech stack, o
 
 ## Screenshots
 
-*Add screenshots here to highlight key features such as real-time chat, group creation, and the admin panel.*
+![image](https://github.com/user-attachments/assets/a2483be3-7bf9-4a20-bf64-262a65fc293d)
+![image](https://github.com/user-attachments/assets/687488ff-22c5-4c5e-a1a4-2d0be0a36be6)
+![image](https://github.com/user-attachments/assets/551e717c-d7c4-41a5-9d81-f8d9aaeb4d5a)
+![image](https://github.com/user-attachments/assets/a11779d0-635a-4969-84f2-4d57b57f05d2)
+![image](https://github.com/user-attachments/assets/e2692cb9-7865-4366-97b4-43ac5c2e1db0)
+![image](https://github.com/user-attachments/assets/1207331f-286d-4091-b823-266506dbf52e)
+![image](https://github.com/user-attachments/assets/6f46bb48-6ff5-4ff6-b801-d522d143ce6a)
+![image](https://github.com/user-attachments/assets/87b986f5-4f20-4571-87f6-6c5eadf1e27e)
+Admin
+![image](https://github.com/user-attachments/assets/22768e82-b166-4d5c-bb56-c596bdbf644c)
+![image](https://github.com/user-attachments/assets/0aaab633-b24d-4d04-884e-9dc6b6773e8f)
+![image](https://github.com/user-attachments/assets/87e677c2-77e5-4f25-84b5-e8c2f056ced2)
 
-## Contribution
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/chat-app/issues).
 
 ## License
 This project is licensed under the MIT License.

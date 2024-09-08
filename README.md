@@ -51,29 +51,35 @@ A real-time chat application designed and developed using a modern tech stack, o
 - MongoDB running locally or on a remote server
 
 ### Installation
-1. Clone the repository:
+1. Install client-side dependencies:
     ```bash
-    git clone https://github.com/your-username/chat-app.git
-    cd chat-app
+    git clone https://github.com/Nur-Adnan/MERN-Stack-Chat-App-Frontend.git
+    npm install
     ```
 
 2. Install server-side dependencies:
     ```bash
-    cd server
+    git clone https://github.com/Nur-Adnan/MERN-Stack-Chat-App-Backend.git
     npm install
     ```
 
-3. Install client-side dependencies:
-    ```bash
-    cd ../client
-    npm install
-    ```
-
-4. Create an `.env` file in the server folder with the following variables:
+3. Create an `.env` file in the client folder with the following variables:
     ```bash
     VITE_SERVER=your-server-url
     ```
-
+    
+4. Create an `.env` file in the server folder with the following variables:
+    ```bash
+    MONGO_URI=your-mongodb-connection-string
+    JWT_SECRET=your-secret-key
+    ADMIN_SECRET_KEY=your-admin-secret-key
+    NODE_ENV=your-environment
+    CLIENT_URL=your-client-url
+    CLOUDINARY_CLOUD_NAME=your-cloudinary-cloud-name
+    CLOUDINARY_API_KEY=your-cloudinary-api-key
+    CLOUDINARY_API_SECRET=your-cloudinary-api-secret
+    ```
+    
 5. Run the development server:
     - In the `server` folder, start the backend:
       ```bash
@@ -82,10 +88,10 @@ A real-time chat application designed and developed using a modern tech stack, o
 
     - In the `client` folder, start the frontend:
       ```bash
-      npm start
+      npm run dev
       ```
 
-6. The application will be available at `http://localhost:3000`.
+6. The application will be available at `http://localhost:5173`.
 
 ## Screenshots
 

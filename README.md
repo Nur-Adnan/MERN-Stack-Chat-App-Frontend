@@ -18,7 +18,7 @@ A real-time chat application designed and developed using a modern tech stack, o
 
 ### User Features
 - **Registration & Authentication**:
-  - Users can register by providing a photo, name, bio, unique username, and password.
+  - Users can register by providing a photo, name, bio, unique username, & password.
   - Secure login using a username and password.
 
 - **Real-Time Messaging**:
